@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+    <link rel="stylesheet" href="L.Control.Sidebar.css" />
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.css">
+    <style>
+        div.tooltip {   
+  position: absolute;           
+  text-align: center;           
+  width: 100px;                  
+  height: 50px;
+  padding: 5px;             
+  font: 12px sans-serif;        
+  background: white;   
+  border: 1px solid black;      
+  font-weight: bold;
+  border-radius: 8px;           
+  pointer-events: none;         
+}
+        .leaflet-overlay-pane > svg {
+                pointer-events: visible;
+            }
+        body {
+            background-color:#343a40!important;
+                                    padding: 0;
+                                    margin: 0;
+                                }
+                        
+                                html, body, #map,.container {
+                                    height: 100%;
+                                }
+                        
+                                .lorem {
+                                    font-style: italic;
+                                    color: #AAA;
+                                }
+                        
+                          .notfiltered{
+                            color:lightgrey!important;
+                          }
+                        
+                      
+            .info { padding: 6px 8px; font: 14px/16px Arial, Helvetica, sans-serif; background: white; background: rgba(255,255,255,0.8); box-shadow: 0 0 15px rgba(0,0,0,0.2); border-radius: 5px; } .info h4 { margin: 0 0 5px; color: #777; }
+        
+            .legend { text-align: left; line-height: 18px; color: #555; } .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.7; }
+
+                    
+                        .stations, .stations svg {
+                          position: absolute;
+                        }
+                        
+                        .leaflet-top.leaflet-left,.easy-button-container,.easy-button-button,.leaflet-control {
+                          display:inline!important;
+                        }
+
+                        .stations svg {
+                          width: 60px;
+                          height: 20px;
+                          padding-right: 100px;
+                          font: 10px sans-serif;
+                        }
+                        
+                        .stations circle {
+                          fill: red;
+                          stroke: black;
+                          stroke-width: 1.5px;
+                        }
+                        
+    
+                        .leaflet-bottom{
+                          z-index:99999
+                        }
+                        </style>
+</head>
+
+<body>
+    <div id="sidebar-left">
+        <h1>
+            <label class="badge badge-primary country">
+            </label>
+        </h1>
+        <h5>
+            <label class="indicator">
+            </label>
+        </h5>
+    </div>
+    <div id="sidebar-right">
+        <h1>
+            <label class="badge badge-primary country-right">
+            </label>
+        </h1>
+        <h5>
+        <label class="indicator-right">
+            </label>
+        </h5>
+    </div>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-bottom">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                MIGData - IDB Migration Initiative Information Services
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon">
+                </span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">
+                            Home
+                            <span class="sr-only">
+                                (current)
+                            </span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                            Reports
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                            Datasets
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                            Contact
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="row">
+        <div class="col-md-4 text-right">
+            <div class="btn-group" role="group" aria-label="Basic example" style="display:inline-block!important">
+                <button type="button" class="btn btn-secondary policies active" style="margin:10px">Migration Policies</button>
+                <button type="button" class="btn btn-secondary flow" style="margin:10px">Migration Flows</button>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <select class="form-control indicator-selector" style="margin:10px;display:block">
+            </select>
+            <select class="form-control flows-selector" style="margin:10px;display:none">
+                <option>Permanent Residency</option>
+            </select>
+        </div>
+    </div>
+    <div id="map" style="height:100%;width: 100%;"></div>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js"></script>
+    <script src="http://d3js.org/queue.v1.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script>
+    <script src="L.Control.Sidebar.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.js"></script>
+    <script>
+    var sidebar, map, legend, legend_flow, tooltip;
+
+    var migration = (function() {
+        var maxValue = 0,
+            minValue = 1,
+            svg,
+            g,
+            leftSidebar, rightSidebar, lastmarker = null;
+
+        /*var getColor = function(value) {
+            return value >= minValue && value <= Math.round(maxValue / 100, 0) ? 'green' :
+                value >= minValue && value <= Math.round(maxValue / 50, 0) ? 'yellow' : 'red';
+        };*/
+
+
+        var addFooterToLayer = function(layer) {
+            L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: 'Map data &copy; OpenStreetMap contributors'
+            }).addTo(layer);
+        };
+
+        var addMenuesToLayer = function(map, layer) {
+
+            leftSidebar = L.control.sidebar('sidebar-left', {
+                closeButton: true,
+                position: 'left'
+            });
+
+            map.addControl(leftSidebar)
+
+
+            rightSidebar = L.control.sidebar('sidebar-right', {
+                closeButton: true,
+                position: 'right'
+            });
+
+            map.addControl(rightSidebar);
+        };
+
+        var addElementsToDropdown = function(data, grouped_by_indicator, grouped_by_country, countries, map, layer_markers, layer_general_markers, flujos) {
+
+            dropdown = d3.select('.indicator-selector');
+            dropdown.selectAll('option').remove();
+
+            dropdown.append('option')
+                .attr('value', 99)
+                .text('All');
+
+            var options = dropdown
+                .selectAll('option')
+                .data(grouped_by_indicator)
+                .enter()
+                .append('option')
+                .attr('value', function(f) { return f.values[0].subject_id; })
+                .text(function(d) { return d.key; });
+
+
+            $('.indicator-selector').on('change', function() {
+                if ($(this).val() == 99) {
+                    map.removeLayer(layer_markers);
+                    map.addLayer(layer_general_markers);
+                    drawGeneralMarkers(grouped_by_country, countries, layer_general_markers, map, flujos)
+
+                } else {
+                    map.removeLayer(layer_general_markers);
+                    map.addLayer(layer_markers);
+                    drawMarkers(data, grouped_by_country, countries, $(this).val(), map, layer_markers, flujos);
+                }
+            });
+        };
+
+        var addRegionsToLayer = function(layer, regions) {
+            L.geoJSON(regions, {
+                style: function(feature) {
+                    if (feature.properties.region_un == 'Asia')
+                        return { color: 'red', "weight": 1, dashArray: '3' };
+
+                    if (feature.properties.region_un == 'Europe')
+                        return { color: 'yellow', "weight": 1, dashArray: '3' };
+
+                    if (feature.properties.region_un == 'Africa')
+                        return { color: 'blue', "weight": 1, dashArray: '3', };
+
+                    if (feature.properties.region_un == 'Oceania')
+                        return { color: 'green', "weight": 1, dashArray: '3', };
+
+                }
+            }).addTo(layer);
+        };
+
+        var markerOnClick = function(layer, map, e, childs, flujos) {
+
+            /* Quita la capa de marcadores y deja solo el seleccionado */
+            map.removeLayer(layer);
+
+            if (lastmarker == null) {
+                lastmarker = e;
+                map.addLayer(e);
+            } else {
+                map.removeLayer(lastmarker);
+                lastmarker = e;
+                e.addTo(map);
+            }
+
+            $('.country').text(childs[0].country_name)
+
+
+            e.bindPopup(childs[0].country_name);
+
+
+            let indicator = "";
+            childs.forEach(function(d) {
+                description = d.description;
+                /* Excepcion para que en el caso que sea verdadero muestra la palabra */
+                if (d.type == 'Boolean') {
+                    description = d.description
+                    if (d.description == 1)
+                        description = "TRUE";
+                    else
+                        description = "FALSE";
+                }
+
+                indicator += "<p><b>" + d.subject_name + "</b> - <label class='badge badge-danger'>" + description + "</label></p>";
+            })
+
+            $('.indicator').html(indicator);
+
+            leftSidebar.toggle();
+        };
+
+
+        var drawPartners = function(map, flujos, scale, scaleRadius) {
+            
+
+            d3.selectAll('.circles-partners').remove();
+            d3.selectAll('.text-partners').remove();
+
+            //var scale = d3.scaleQuantile()                    
+            //        .domain([0,1000, 10000])                    
+            //        .range([d3.rgb('#00bb2d'),d3.rgb('#c7b446'),d3.rgb('#bb002c')]);
+
+            var g_circles_destination = g.selectAll(".circles-partners")
+                .data(flujos)
+                .enter()
+                .append("g")
+                .classed('circles-partners', true)
+                .attr('id', function(d) { return d.iso_origin; })
+
+            var circles_destination = g_circles_destination
+                .append('circle')
+                .style("stroke", function(d) { return scale(d.number) })
+                .style("fill", function(d) { return scale(d.number) })
+                .attr("r", function(d) { return scaleRadius(d.number) })
+
+            circles_destination
+                .append("svg:title")
+            //.text(function(d) { return d.number })
+
+
+            var texts_destination = g_circles_destination.append("text")
+                .attr("dx", function(d) { return -12 })
+                .attr("dy", function(d) { return 4 })
+                .classed('text-partners', true)
+                .style('fill', 'white')
+                .style('font-weight', 'bold')
+                .text(function(d) { return d.iso_origin })
+
+
+            //Finally set up the initial circles and bind the update
+            updatePartnerPosition(map, circles_destination);
+            updatePartnerPosition(map, texts_destination);
+
+            map.on("moveend", function() {
+                updatePartnerPosition(map, circles_destination);
+                updatePartnerPosition(map, texts_destination);
+            });
+
+
+            g_circles_destination.on('mouseover', function(d) {
+
+                tooltip.transition()
+                    .duration(200)
+                    .style("opacity", .9);
+
+                tooltip.html(d.name_origin + "<br/><p style='color:" + scale(d.number) + "'>" + d.number + "</label>")
+                    .style("left", (d3.event.pageX) + "px")
+                    .style("top", (d3.event.pageY - 28) + "px");
+
+
+            }).on('mouseout', function() {
+                tooltip.transition()
+                    .duration(500)
+                    .style("opacity", 0);
+            })
+
+
+            if (legend_flow != undefined)
+                map.removeControl(legend_flow);
+
+            legend_flow = L.control({ position: 'topright' });
+
+
+            legend_flow.onAdd = function(map) {
+                var div = L.DomUtil.create('div', 'info legend'),
+                    grades = [0, 1000, 10000];
+
+
+                // loop through our density intervals and generate a label with a colored square for each interval
+                for (var i = 0; i < 3; i++) {
+                    div.innerHTML +=
+                        '<i style="background:' + scale(grades[i]) + '"></i> ' +
+                        grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
+                }
+
+                return div;
+            };
+
+            legend_flow.addTo(map);
+
+
+
+        };
+
+
+
+        var addFlowCountries = function(map, flujos) {
+
+            d3.selectAll('.circles').remove();
+            d3.selectAll('text').remove();
+
+            /*var g_circles = g.selectAll("g")
+                .data(flujos)
+                .enter()
+                .append("g")
+                .classed('circles', true)*/
+
+
+            var g_circles_destination = g.selectAll(".circles")
+                .data(flujos)
+                .enter()
+                .append("g")
+                .classed('circles', true)
+                .attr('id', function(d) { return d.key; })
+
+            var circles_destination = g_circles_destination.append('circle')
+                .style("stroke", 'black')
+                .style("fill", 'black')
+                .attr("r", 30)
+
+            circles_destination
+                .append("svg:title")
+            //.text(function(d) { return d.number })
+
+
+            var texts_destination = g_circles_destination.append("text")
+                .attr("dx", function(d) { return -12 })
+                .attr("dy", function(d) { return 4 })
+                .style('fill', 'white')
+                .style('font-weight', 'bold')
+                .text(function(d) { return d.key })
+
+
+            //Finally set up the initial circles and bind the update
+            updatePosition(map, circles_destination);
+            updatePosition(map, texts_destination);
+
+            map.on("moveend", function() {
+                updatePosition(map, circles_destination);
+                updatePosition(map, texts_destination);
+            });
+
+            g_circles_destination.on('click', function(e) {
+
+                var scale = d3.scaleQuantile()
+                    .domain([0, 1000, 10000])
+                    .range([d3.rgb('#00bb2d'), d3.rgb('#c7b446'), d3.rgb('#bb002c')]);
+
+                var scaleRadius = d3.scaleQuantile()
+                    .domain([0, 1000, 10000])
+                    .range([15, 20, 25]);
+
+                var iso = d3.select(this).attr('id');
+
+                d3.selectAll('.circles').style('display', 'none');
+                d3.select(this).style('display', 'block');
+
+                flujos_filter_destination = flujos.filter(function(d) { return d.key == iso })[0]
+
+
+                let indicator_right = "";
+
+                flujos_filter_destination.values.sort(function(a, b) { return b.number - a.number; });
+                flujos_filter_destination.values.forEach(function(d) {
+                    indicator_right += "<p><h6><b>" + d.name_origin + "</b> - <label class='badge ' style='color:" + scale(d.number) + "'>" + d.number + "</label></h6></p>";
+                })
+
+                $('.country-right').text(flujos_filter_destination.values[0].name_destination);
+                $('.indicator-right').html(indicator_right);
+
+                rightSidebar.toggle();
+                drawPartners(map, flujos_filter_destination.values, scale, scaleRadius)
+
+                d3.event.stopPropagation();
+
+            })
+
+
+        };
+
+
+        //Function which sets the transformation attribute to move the circles to the correct location on the map
+        var updatePosition = function(map, elements) {
+
+
+            elements.attr("transform",
+                function(d) {
+                    if (d.values[0].LatLng_destination) {
+                        var layerPoint = map.latLngToLayerPoint(d.values[0].LatLng_destination);
+                        return "translate(" + layerPoint.x + "," + layerPoint.y + ")";
+                    }
+                }
+            )
+        };
+
+        //Function which sets the transformation attribute to move the circles to the correct location on the map
+        var updatePartnerPosition = function(map, elements) {
+
+
+            elements
+
+                .attr("transform",
+                    function(d) {
+                        if (d.LatLng_origin) {
+                            var layerPoint = map.latLngToLayerPoint(d.LatLng_origin);
+                            return "translate(" + layerPoint.x + "," + layerPoint.y + ")";
+                        }
+                    }
+                );
+        };
+
+
+        var drawGeneralMarkers = function(data, countries, layer, map, flujos) {
+            let ModelIcon = L.Icon.extend({});
+            icon = new ModelIcon({ iconUrl: 'marker-icon-black.png', iconSize: [24, 36], iconAnchor: [12, 36] });
+
+            data.forEach(function(e, i) {
+                country = countries.filter(function(d) { return d.ISO3166A3 == e.key; })[0];
+                if (country) {
+                    L.marker([country.latitude, country.longitude], { icon: icon }).addTo(layer).on('click', function() { markerOnClick(layer, map, this, e.values, flujos) });
+                }
+            });
+        };
+
+        var drawMarkers = function(data, grouped_by_country, countries, subject_id, map, layer, flujos) {            
+            /* Se define el icono */
+            var ModelIcon = L.Icon.extend({});
+
+            /* Define el tipo de dato del indicador */
+            var node = data.filter(function(d) { return d.subject_id == subject_id })[0];
+
+            /* En el caso de ser numerico el indicador calculo el Maximo y el Minimo */
+            if (node && node.type == 'Numeric') {
+                var arr = [];
+                minValue = 1;
+                maxValue = 0;
+                grouped_by_country.forEach(function(e, i) {
+                    var value = e.values.filter(function(j) { return j.iso3 == e.key && j.subject_id == subject_id })[0];
+                    if (value) {                        
+                        //arr.push(+value.description);
+
+                        if (value.description > 1 && value.description < minValue)
+                            minValue = value.description;
+
+                        if (value.description > maxValue)
+                            maxValue = value.description;
+                    }
+                });
+
+                //var deviation = Math.round(d3.deviation(arr),0)
+                //var mean = d3.mean(arr)
+
+                var scale = d3.scaleQuantile()
+                    .domain([minValue, maxValue])
+                    .range([d3.rgb('#00bb2d'), d3.rgb('#c7b446'), d3.rgb('#bb002c')]);
+
+                var scaleMarker = d3.scaleQuantile()
+                    .domain([minValue, maxValue])
+                    .range(['green', 'yellow', 'red']);
+
+            }
+
+            grouped_by_country.forEach(function(e, i) {
+                icon = new ModelIcon({ iconUrl: 'marker-icon-black.png', iconSize: [24, 36], iconAnchor: [12, 36] });
+                var country = countries.filter(function(d) { return d.ISO3166A3 == e.key; })[0];
+
+                var value = e.values.filter(function(j) { return j.iso3 == e.key && j.subject_id == subject_id })[0];
+                if (value != undefined) {
+                    if (node.type == 'Boolean') {
+                        if (value.description == 1)
+                            icon = new ModelIcon({ iconUrl: 'marker-icon-green.png', iconSize: [24, 36], iconAnchor: [12, 36] });
+                        else
+                            icon = new ModelIcon({ iconUrl: 'marker-icon-red.png', iconSize: [24, 36], iconAnchor: [12, 36] });
+                    }
+                }
+                
+                if (country) {                    
+                    if (value && node && node.type == 'Numeric') {
+                        L.marker([country.latitude, country.longitude], { icon: new ModelIcon({ iconSize: [24, 36], iconAnchor: [12, 36], iconUrl: 'marker-icon-' + scaleMarker(value.description) + '.png' }) }).on('click', function() { markerOnClick(layer, map, this, e.values, flujos) }).on('mouseover', function(e) {
+
+                            tooltip.transition()
+                                .duration(200)
+                                .style("opacity", .9);                                
+
+                            tooltip.html(country.DescripcionING + "<br/><p>" + value.description + "</label>")
+                                .style("left", (e.originalEvent.x) + "px")
+                                .style("top", (e.originalEvent.y - 28) + "px");
+
+
+                        }).on('mouseout', function() {
+                            tooltip.transition()
+                                .duration(500)
+                                .style("opacity", 0);
+
+                        }).addTo(layer);
+                    } else {
+                        L.marker([country.latitude, country.longitude], { icon: icon }).on('click', function() { markerOnClick(layer, map, this, e.values, flujos) }).on('mouseover', function(e) {
+
+                            tooltip.transition()
+                                .duration(200)
+                                .style("opacity", .9);
+
+                            tooltip.html(country.DescripcionING + "<br/><p>" + value.description + "</label>")
+                                .style("left", (e.originalEvent.x) + "px")
+                                .style("top", (e.originalEvent.y - 28) + "px");
+
+
+                        }).on('mouseout', function() {
+                            tooltip.transition()
+                                .duration(500)
+                                .style("opacity", 0);
+                        }).addTo(layer);
+                    }
+                }
+
+            })
+
+            if (node.type == 'Numeric') {
+                if (legend != undefined)
+                    map.removeControl(legend);
+
+                legend = L.control({ position: 'topright' });
+
+
+                legend.onAdd = function(map) {
+                    var div = L.DomUtil.create('div', 'info legend'),
+                        grades = [minValue, (minValue + maxValue) / 2, maxValue];
+
+                    // loop through our density intervals and generate a label with a colored square for each interval
+                    for (var i = 0; i < 3; i++) {
+                        div.innerHTML +=
+                            '<i style="background:' + scale(grades[i]) + '"></i> ' +
+                            grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
+                    }
+
+                    return div;
+                };
+
+                legend.addTo(map);
+            }
+        };
+
+        var mapOnClick = function(map, layer_markers, layer_general_markers) {
+
+            //d3.selectAll('.circles').remove();
+
+            if ($('select').val() == 99) {
+                map.removeLayer(layer_markers);
+                map.addLayer(layer_general_markers);
+
+            } else {
+                map.removeLayer(layer_general_markers);
+                map.addLayer(layer_markers);
+            }
+
+            if (leftSidebar.isVisible())
+                leftSidebar.hide();
+
+            if (rightSidebar.isVisible())
+                rightSidebar.toggle();
+        };
+
+        var init = function() {
+
+            tooltip = d3.select("body").append("div")
+                .attr("class", "tooltip")
+                .style("opacity", 0);
+
+            queue()
+                .defer(d3.json, "countries.json")
+                .defer(d3.json, "regions.json")
+                .defer(d3.json, "data.json")
+                .defer(d3.json, "flujos.json")
+                .await(function(error, countries, regions, data, flujos) {
+                    if (error) throw error;
+
+                    var map = L.map('map', { zoomControl: true, minZoom: 2, maxZoom: 10 });
+                    map.setView([-9.1899672, -75.015152], 4);
+                    map.zoomControl.setPosition('topright');
+
+                    var svgLayer = L.svg();
+                    svgLayer.addTo(map);
+
+
+                    g = d3.select("#map").select("svg") /*.select('g');*/
+
+                    flujos.forEach(function(e) {
+                        let country_origin = countries.filter(function(d) { return d.ISO3166A3 == e.iso_origin.trim() })[0];
+                        if (country_origin) {
+                            e.latitude_origin = country_origin.latitude;
+                            e.longitude_origin = country_origin.longitude;
+                            e.LatLng_origin = new L.LatLng(e.latitude_origin, e.longitude_origin);
+                        }
+                        let country_destination = countries.filter(function(d) { return d.ISO3166A3 == e.iso_destination.trim() })[0];
+                        if (country_destination && country_destination.latitude && country_destination.longitude) {
+
+                            e.latitude_destination = country_destination.latitude;
+                            e.longitude_destination = country_destination.longitude;
+                            e.LatLng_destination = new L.LatLng(e.latitude_destination, e.longitude_destination);
+                        }
+
+                    })
+
+                    /* Filtra la lista de paises que se encuentran en america para luego obtener las coordenadas */
+                    countries = countries.filter(function(d) { return d.Continente == 1; });
+
+
+
+                    /* A cada pais de los indicadores se le asigna latitud y longitud */
+                    data.forEach(function(e) {
+                        let country = countries.filter(function(d) { return d.ISO3166A3 == e.iso3.trim() })[0];
+                        if (country) {
+                            e.latitude = country.latitude;
+                            e.longitude = country.longitude;
+                        }
+                    })
+
+
+                    /* Agrupa los datos por indicador */
+                    var grouped_by_indicator = d3.nest()
+                        .key(function(d) { return d.subject_name.trim() })
+                        .entries(data)
+
+
+                    /* Agrupa los datos por pais */
+                    var grouped_by_country_flow = d3.nest()
+                        .key(function(d) { return d.iso_destination })
+                        .entries(flujos)
+
+                    /* Agrupa los datos por pais */
+                    var grouped_by_country = d3.nest()
+                        .key(function(d) { return d.iso3.trim() })
+                        .entries(data)
+
+                    /* Se definen los layers */
+                    layer_general_markers = L.layerGroup().addTo(map);
+                    layer_markers = L.layerGroup().addTo(map);
+                    layer_regions = L.layerGroup().addTo(map);
+                    layer_menu = L.layerGroup().addTo(map);
+                    layer_footer = L.layerGroup().addTo(map);
+                    layer_button = L.layerGroup().addTo(map);
+
+
+
+                    map.on('click', function() {
+
+                        if (tooltip) {
+                            tooltip.transition()
+                                .duration(500)
+                                .style("opacity", 0);
+                        }
+
+                        if (legend != undefined)
+                            map.removeControl(legend);
+
+                        if (legend_flow != undefined)
+                            map.removeControl(legend_flow);
+
+                        if (!$('.flow').hasClass("active")) {
+                            mapOnClick(map, layer_markers, layer_general_markers);
+                            leftSidebar.hide();
+                        } else {
+
+                            d3.selectAll('.circles').style('display', 'block');
+                            d3.selectAll('.circles-partners').remove();
+                            d3.selectAll('.text-partners').remove();
+                            rightSidebar.hide();
+                        }
+
+                    })
+
+                    $('.flow').on('click', function() {
+                        $('.indicator-selector').css('display', 'none');
+                        $('.flows-selector').css('display', 'block');
+                        map.removeLayer(layer_markers);
+                        map.removeLayer(layer_general_markers);
+                        addFlowCountries(map, grouped_by_country_flow);
+                        if (legend != undefined)
+                            map.removeControl(legend);
+                        //flowMarkersOnClick(flujos);
+                    })
+
+                    $('.policies').on('click', function() {
+                        $('.indicator-selector').css('display', 'block');
+                        $('.flows-selector').css('display', 'none');
+                        map.removeLayer(layer_markers);
+                        map.addLayer(layer_general_markers);
+                        d3.selectAll('.circles').remove();
+                        d3.selectAll('.circles-partners').remove();
+                        d3.selectAll('.text-partners').remove();
+                        if (legend_flow != undefined)
+                            map.removeControl(legend_flow);
+                    })
+
+                    $(".btn-group > .btn").click(function() {
+                        $(".btn-group > .btn").removeClass("active");
+                        $(this).addClass("active");
+                    });
+
+
+
+                    //addButton(map)
+                    addFooterToLayer(layer_footer);
+                    addMenuesToLayer(map, layer_menu);
+                    addElementsToDropdown(data, grouped_by_indicator, grouped_by_country, countries, map, layer_markers, layer_general_markers, flujos);
+                    //addRegionsToLayer(layer_regions, regions);
+
+                    drawGeneralMarkers(grouped_by_country, countries, layer_general_markers, map, flujos);
+                });
+
+        }
+
+        return {
+            init: init,
+        };
+
+    })();
+
+    $(document).ready(function() {
+        migration.init();
+    });
+    </script>
+</body>
+
+</html>

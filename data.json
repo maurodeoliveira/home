@@ -1,0 +1,3296 @@
+[
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 7,
+    "subject_name": "Access to benefit accrued under contributions in other countries? (convenio multilateral de seguridad social)",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "ARGENTINA",
+    "type": "ARG",
+    "description": "Boolean",
+    "observactions": 1
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "BOLIVIA",
+    "type": "BOL",
+    "description": "Boolean",
+    "observactions": "NULL"
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "BRAZIL",
+    "type": "BRA",
+    "description": "Boolean",
+    "observactions": 1
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "CHILE",
+    "type": "CHL",
+    "description": "Boolean",
+    "observactions": 1
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "COLOMBIA",
+    "type": "COL",
+    "description": "Boolean",
+    "observactions": 1
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "COSTA RICA",
+    "type": "CRI",
+    "description": "Boolean",
+    "observactions": 1
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "DOMINICAN REPUBLIC",
+    "type": "DOM",
+    "description": "Boolean",
+    "observactions": 1
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "ECUADOR",
+    "type": "ECU",
+    "description": "Boolean",
+    "observactions": 1
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "GUATEMALA",
+    "type": "GTM",
+    "description": "Boolean",
+    "observactions": 1
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "HONDURAS",
+    "type": "HND",
+    "description": "Boolean",
+    "observactions": 1
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "MEXICO",
+    "type": "MEX",
+    "description": "Boolean",
+    "observactions": 1
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "NICARAGUA",
+    "type": "NIC",
+    "description": "Boolean",
+    "observactions": 1
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "PANAMA",
+    "type": "PAN",
+    "description": "Boolean",
+    "observactions": 0
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "PERU",
+    "type": "PER",
+    "description": "Boolean",
+    "observactions": 0
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "PARAGUAY",
+    "type": "PRY",
+    "description": "Boolean",
+    "observactions": 1
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "EL SALVADOR",
+    "type": "SLV",
+    "description": "Boolean",
+    "observactions": 1
+  },
+  {
+    "subject_id": 13,
+    "subject_name": "Access to social programs (CCTs",
+    "country_name": "etc)",
+    "iso3": "URUGUAY",
+    "type": "URY",
+    "description": "Boolean",
+    "observactions": 1
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Numeric",
+    "description": 2003,
+    "observactions": ""
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Numeric",
+    "description": 2013,
+    "observactions": ""
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Numeric",
+    "description": "NULL",
+    "observactions": "NULL"
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Numeric",
+    "description": "NULL",
+    "observactions": "NULL"
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Numeric",
+    "description": 2017,
+    "observactions": ""
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Numeric",
+    "description": 2017,
+    "observactions": ""
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Numeric",
+    "description": 2013,
+    "observactions": ""
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Numeric",
+    "description": 2010,
+    "observactions": ""
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Numeric",
+    "description": 2004,
+    "observactions": ""
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Numeric",
+    "description": 2017,
+    "observactions": ""
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Numeric",
+    "description": 2016,
+    "observactions": ""
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Numeric",
+    "description": 2003,
+    "observactions": ""
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Numeric",
+    "description": 2011,
+    "observactions": ""
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Numeric",
+    "description": 2011,
+    "observactions": ""
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Numeric",
+    "description": 2008,
+    "observactions": ""
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Numeric",
+    "description": 2015,
+    "observactions": ""
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Numeric",
+    "description": 1996,
+    "observactions": ""
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Numeric",
+    "description": 1983,
+    "observactions": ""
+  },
+  {
+    "subject_id": 19,
+    "subject_name": "Año aprobacion ley Migraciones",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Numeric",
+    "description": 2008,
+    "observactions": ""
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Numeric",
+    "description": 2008,
+    "observactions": "2006-2008"
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Numeric",
+    "description": 2015,
+    "observactions": "2015 la ultima"
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Numeric",
+    "description": 2009,
+    "observactions": ""
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Numeric",
+    "description": 2008,
+    "observactions": "2007-2008"
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Numeric",
+    "description": 2018,
+    "observactions": "2018 para algunos..."
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Numeric",
+    "description": 1998,
+    "observactions": ""
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Numeric",
+    "description": 2015,
+    "observactions": "y 2014"
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Numeric",
+    "description": 2009,
+    "observactions": ""
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Numeric",
+    "description": 999,
+    "observactions": "nd"
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Numeric",
+    "description": 2018,
+    "observactions": "2018 el ultimo"
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Numeric",
+    "description": 2017,
+    "observactions": 2016
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Numeric",
+    "description": 999,
+    "observactions": "nd"
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Numeric",
+    "description": 2015,
+    "observactions": 2010
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Numeric",
+    "description": 2018,
+    "observactions": ""
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Numeric",
+    "description": 2018,
+    "observactions": 2009
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Numeric",
+    "description": 999,
+    "observactions": "nd"
+  },
+  {
+    "subject_id": 20,
+    "subject_name": "Años donde se llevaron a cabo regulaciones",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Numeric",
+    "description": 999,
+    "observactions": "nd"
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Boolean",
+    "description": "",
+    "observactions": "nd"
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": "http://www.cancilleria.gov.co/footer/join-us/work/plan"
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 18,
+    "subject_name": "Beneficios tributarios para el retornado",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 10,
+    "subject_name": "Cost of re-ceritfication of college degree (US$)",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Numeric",
+    "description": 0,
+    "observactions": "https://convalidaciones.siu.edu.ar/"
+  },
+  {
+    "subject_id": 10,
+    "subject_name": "Cost of re-ceritfication of college degree (US$)",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Numeric",
+    "description": 174,
+    "observactions": "http://www.minedu.gob.bo/files/documentos-normativos/VESFP/utp/requisitos/Revalidacion_Homologacion.pdf"
+  },
+  {
+    "subject_id": 10,
+    "subject_name": "Cost of re-ceritfication of college degree (US$)",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Numeric",
+    "description": 1,
+    "observactions": "https://tramites.gub.uy/ampliados?id=166\\r\\n\\r\\ncalculo de EA=0.36"
+  },
+  {
+    "subject_id": 10,
+    "subject_name": "Cost of re-ceritfication of college degree (US$)",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Numeric",
+    "description": 190,
+    "observactions": "https://www.mineducacion.gov.co/portal/convalidaciones/Convalidaciones-Educacion-Superior/350995:Costo-y-duracion"
+  },
+  {
+    "subject_id": 10,
+    "subject_name": "Cost of re-ceritfication of college degree (US$)",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Numeric",
+    "description": 359,
+    "observactions": "https://ore.conare.ac.cr/xhtml/paginas/info/tarifas.xhtml\\r\\n"
+  },
+  {
+    "subject_id": 10,
+    "subject_name": "Cost of re-ceritfication of college degree (US$)",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Numeric",
+    "description": 4150,
+    "observactions": "https://www.uasd.edu.do/index.php/2018-01-23-20-50-42/revalida-o-reconocimiento-de-titulo/514-revalida\\r\\n"
+  },
+  {
+    "subject_id": 10,
+    "subject_name": "Cost of re-ceritfication of college degree (US$)",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Numeric",
+    "description": 0,
+    "observactions": "http://www.senescyt.gob.ec/registro-titulos/"
+  },
+  {
+    "subject_id": 10,
+    "subject_name": "Cost of re-ceritfication of college degree (US$)",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Numeric",
+    "description": 777,
+    "observactions": "http://becas.segeplan.gob.gt/becas//uploads/201206%2Fcd_13121744_trifoliar%20incorporacion%20%282%29.doc"
+  },
+  {
+    "subject_id": 10,
+    "subject_name": "Cost of re-ceritfication of college degree (US$)",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Numeric",
+    "description": 42,
+    "observactions": "https://presencia.unah.edu.hn/noticias/conoce-los-pasos-para-tramitar-el-reconocimiento-de-titulos-otorgados-por-otras-universidades"
+  },
+  {
+    "subject_id": 10,
+    "subject_name": "Cost of re-ceritfication of college degree (US$)",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Numeric",
+    "description": 538,
+    "observactions": "http://www.sep.gob.mx/work/appsite/e5_ene12/dpa/hojaayuda.html?institucion=dgair\\r\\n"
+  },
+  {
+    "subject_id": 10,
+    "subject_name": "Cost of re-ceritfication of college degree (US$)",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Numeric",
+    "description": 25,
+    "observactions": "http://www.unan.edu.ni/wp-content/uploads/2016/09/ARANCELES_VIGENTES_2016.pdf\\r\\n"
+  },
+  {
+    "subject_id": 10,
+    "subject_name": "Cost of re-ceritfication of college degree (US$)",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Numeric",
+    "description": 500,
+    "observactions": "https://www.panamatramita.gob.pa/tramite/solicitud-de-homologacion-de-titulos\\r\\n"
+  },
+  {
+    "subject_id": 10,
+    "subject_name": "Cost of re-ceritfication of college degree (US$)",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Numeric",
+    "description": 195,
+    "observactions": "https://www.sunedu.gob.pe/procedimiento-de-reconocimiento-de-grados-y-titulos-extranjeros/"
+  },
+  {
+    "subject_id": 10,
+    "subject_name": "Cost of re-ceritfication of college degree (US$)",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Numeric",
+    "description": 560,
+    "observactions": "http://www.cones.gov.py/resolucion-cones-n-1442017-que-establece-el-arancel-para-los-procesos-de-reconocimiento/"
+  },
+  {
+    "subject_id": 10,
+    "subject_name": "Cost of re-ceritfication of college degree (US$)",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Numeric",
+    "description": 0,
+    "observactions": "https://www.mined.gob.sv/index.php/servicios/item/4066-incorporacioacuten-de-tiacute-tulos-de-educacioacuten-superior-procedentes-del-extranjero"
+  },
+  {
+    "subject_id": 10,
+    "subject_name": "Cost of re-ceritfication of college degree (US$)",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Numeric",
+    "description": 5,
+    "observactions": "https://tramites.gub.uy/ampliados?id=166\\r\\n\\r\\ncalculo de EA=4.7"
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": "https://www.ilo.org/dyn/normlex/es/f?p=NORMLEXPUB:11310:0::NO:11310:P11310_INSTRUMENT_ID:312242:NO"
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 8,
+    "subject_name": "Countries that did not ratifed the C97 on migrant workers (revised)",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 11,
+    "subject_name": "Do all migrants have the same status as citizens in accessing govt funded health services? (yes to all or NO if for some or none)",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 12,
+    "subject_name": "Do all migrants have the same statusi as citizens in accessing govt funded education? (primary and secondary)",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 3,
+    "subject_name": "Does the country account for labor migrants skills and capabilities when deciding to admit them?",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": "yes"
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": "yes in excel"
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": "yes"
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": "yes"
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": "yes in excel"
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": "yes"
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 6,
+    "subject_name": "Does the country have a website to access with migration types?",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": "no en excel"
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Numeric",
+    "description": 4,
+    "observactions": ""
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Numeric",
+    "description": 4,
+    "observactions": ""
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Numeric",
+    "description": 999,
+    "observactions": "nd"
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Numeric",
+    "description": 3,
+    "observactions": ""
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Numeric",
+    "description": 3,
+    "observactions": ""
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Numeric",
+    "description": 4,
+    "observactions": ""
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Numeric",
+    "description": 4,
+    "observactions": ""
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Numeric",
+    "description": 4,
+    "observactions": ""
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Numeric",
+    "description": 999,
+    "observactions": "nd"
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Numeric",
+    "description": 999,
+    "observactions": "999 means not defined"
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Numeric",
+    "description": 4,
+    "observactions": ""
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Numeric",
+    "description": 4,
+    "observactions": ""
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Numeric",
+    "description": 999,
+    "observactions": "nd"
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Numeric",
+    "description": 999,
+    "observactions": "nd"
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Numeric",
+    "description": 4,
+    "observactions": ""
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Numeric",
+    "description": 4,
+    "observactions": ""
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Numeric",
+    "description": 999,
+    "observactions": "nd"
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Numeric",
+    "description": 999,
+    "observactions": "nd"
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Numeric",
+    "description": 4,
+    "observactions": ""
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Numeric",
+    "description": 999,
+    "observactions": "nd"
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Numeric",
+    "description": 999,
+    "observactions": ""
+  },
+  {
+    "subject_id": 1,
+    "subject_name": "Easy of hiring foreing national (EIU ranking)",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Numeric",
+    "description": 999,
+    "observactions": "nd"
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Boolean",
+    "description": "",
+    "observactions": "nd"
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 16,
+    "subject_name": "Family reuniifcation is possible for All Types/Some types/Not regulated by migration type",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 5,
+    "subject_name": "Is there a existing program for managing labor migration into the country based on needs?",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": "a source for this would be nice"
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Boolean",
+    "description": "NULL",
+    "observactions": "NULL"
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 4,
+    "subject_name": "Is there a national assessment for monitoring labor market demands?",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": "a link would be nice"
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": 2015
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": 2017
+  },
+  {
+    "subject_id": 15,
+    "subject_name": "Is there a National migration strategy defined in a programatic document",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 21,
+    "subject_name": "Part of MERCOSUR free movement of labor agreement? (year of ratification)",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Numeric",
+    "description": 2004,
+    "observactions": ""
+  },
+  {
+    "subject_id": 21,
+    "subject_name": "Part of MERCOSUR free movement of labor agreement? (year of ratification)",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Numeric",
+    "description": 2005,
+    "observactions": ""
+  },
+  {
+    "subject_id": 21,
+    "subject_name": "Part of MERCOSUR free movement of labor agreement? (year of ratification)",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Numeric",
+    "description": 2005,
+    "observactions": ""
+  },
+  {
+    "subject_id": 21,
+    "subject_name": "Part of MERCOSUR free movement of labor agreement? (year of ratification)",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Numeric",
+    "description": 2005,
+    "observactions": ""
+  },
+  {
+    "subject_id": 21,
+    "subject_name": "Part of MERCOSUR free movement of labor agreement? (year of ratification)",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Numeric",
+    "description": 2012,
+    "observactions": ""
+  },
+  {
+    "subject_id": 21,
+    "subject_name": "Part of MERCOSUR free movement of labor agreement? (year of ratification)",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Numeric",
+    "description": 9999,
+    "observactions": ""
+  },
+  {
+    "subject_id": 21,
+    "subject_name": "Part of MERCOSUR free movement of labor agreement? (year of ratification)",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Numeric",
+    "description": 2011,
+    "observactions": ""
+  },
+  {
+    "subject_id": 21,
+    "subject_name": "Part of MERCOSUR free movement of labor agreement? (year of ratification)",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Numeric",
+    "description": 2011,
+    "observactions": ""
+  },
+  {
+    "subject_id": 21,
+    "subject_name": "Part of MERCOSUR free movement of labor agreement? (year of ratification)",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Numeric",
+    "description": 2008,
+    "observactions": ""
+  },
+  {
+    "subject_id": 21,
+    "subject_name": "Part of MERCOSUR free movement of labor agreement? (year of ratification)",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Numeric",
+    "description": 9999,
+    "observactions": ""
+  },
+  {
+    "subject_id": 21,
+    "subject_name": "Part of MERCOSUR free movement of labor agreement? (year of ratification)",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Numeric",
+    "description": 2006,
+    "observactions": ""
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": ""
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": "some regulations"
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": "% of staff"
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": "Some regulation"
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Boolean",
+    "description": 0,
+    "observactions": "ND?"
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": "Some regulation of not displacing locals\\r\\nND?"
+  },
+  {
+    "subject_id": 2,
+    "subject_name": "Quota to hire foreigners",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Boolean",
+    "description": 1,
+    "observactions": "some requirements"
+  },
+  {
+    "subject_id": 14,
+    "subject_name": "Trafficking in person report",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Numeric",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 14,
+    "subject_name": "Trafficking in person report",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Numeric",
+    "description": 3,
+    "observactions": ""
+  },
+  {
+    "subject_id": 14,
+    "subject_name": "Trafficking in person report",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Numeric",
+    "description": 2,
+    "observactions": ""
+  },
+  {
+    "subject_id": 14,
+    "subject_name": "Trafficking in person report",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Numeric",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 14,
+    "subject_name": "Trafficking in person report",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Numeric",
+    "description": 1,
+    "observactions": ""
+  },
+  {
+    "subject_id": 14,
+    "subject_name": "Trafficking in person report",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Numeric",
+    "description": 2,
+    "observactions": ""
+  },
+  {
+    "subject_id": 14,
+    "subject_name": "Trafficking in person report",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Numeric",
+    "description": 2,
+    "observactions": ""
+  },
+  {
+    "subject_id": 14,
+    "subject_name": "Trafficking in person report",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Numeric",
+    "description": 2,
+    "observactions": ""
+  },
+  {
+    "subject_id": 14,
+    "subject_name": "Trafficking in person report",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Numeric",
+    "description": 2,
+    "observactions": ""
+  },
+  {
+    "subject_id": 14,
+    "subject_name": "Trafficking in person report",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Numeric",
+    "description": 2,
+    "observactions": ""
+  },
+  {
+    "subject_id": 14,
+    "subject_name": "Trafficking in person report",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Numeric",
+    "description": 2,
+    "observactions": ""
+  },
+  {
+    "subject_id": 14,
+    "subject_name": "Trafficking in person report",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Numeric",
+    "description": 2,
+    "observactions": ""
+  },
+  {
+    "subject_id": 14,
+    "subject_name": "Trafficking in person report",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Numeric",
+    "description": 2,
+    "observactions": ""
+  },
+  {
+    "subject_id": 14,
+    "subject_name": "Trafficking in person report",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Numeric",
+    "description": 2,
+    "observactions": ""
+  },
+  {
+    "subject_id": 14,
+    "subject_name": "Trafficking in person report",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Numeric",
+    "description": 2,
+    "observactions": ""
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Numeric",
+    "description": 1991,
+    "observactions": ""
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Numeric",
+    "description": 2009,
+    "observactions": ""
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "BRAZIL",
+    "iso3": "BRA",
+    "type": "Numeric",
+    "description": 1965,
+    "observactions": ""
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Numeric",
+    "description": 2014,
+    "observactions": ""
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Numeric",
+    "description": 1961,
+    "observactions": ""
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "COSTA RICA",
+    "iso3": "CRI",
+    "type": "Numeric",
+    "description": 2013,
+    "observactions": ""
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Numeric",
+    "description": 1997,
+    "observactions": ""
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Numeric",
+    "description": 2002,
+    "observactions": ""
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Numeric",
+    "description": "",
+    "observactions": "no"
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Numeric",
+    "description": 2001,
+    "observactions": ""
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Numeric",
+    "description": 2005,
+    "observactions": ""
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Numeric",
+    "description": 2018,
+    "observactions": ""
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "PANAMA",
+    "iso3": "PAN",
+    "type": "Numeric",
+    "description": 2006,
+    "observactions": ""
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Numeric",
+    "description": 1979,
+    "observactions": ""
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Numeric",
+    "description": 2012,
+    "observactions": ""
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Numeric",
+    "description": 2013,
+    "observactions": ""
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Numeric",
+    "description": "NULL",
+    "observactions": "NULL"
+  },
+  {
+    "subject_id": 17,
+    "subject_name": "Voto en el extranjero (año adopcion)",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Numeric",
+    "description": "",
+    "observactions": "no"
+  },
+  {
+    "subject_id": 9,
+    "subject_name": "Year of ratificatin of  international convention on the protection of the rights of all migrant workers and their families",
+    "country_name": "ARGENTINA",
+    "iso3": "ARG",
+    "type": "Numeric",
+    "description": 2007,
+    "observactions": ""
+  },
+  {
+    "subject_id": 9,
+    "subject_name": "Year of ratificatin of  international convention on the protection of the rights of all migrant workers and their families",
+    "country_name": "BOLIVIA",
+    "iso3": "BOL",
+    "type": "Numeric",
+    "description": 2000,
+    "observactions": ""
+  },
+  {
+    "subject_id": 9,
+    "subject_name": "Year of ratificatin of  international convention on the protection of the rights of all migrant workers and their families",
+    "country_name": "CHILE",
+    "iso3": "CHL",
+    "type": "Numeric",
+    "description": 2005,
+    "observactions": ""
+  },
+  {
+    "subject_id": 9,
+    "subject_name": "Year of ratificatin of  international convention on the protection of the rights of all migrant workers and their families",
+    "country_name": "COLOMBIA",
+    "iso3": "COL",
+    "type": "Numeric",
+    "description": 1995,
+    "observactions": ""
+  },
+  {
+    "subject_id": 9,
+    "subject_name": "Year of ratificatin of  international convention on the protection of the rights of all migrant workers and their families",
+    "country_name": "DOMINICAN REPUBLIC",
+    "iso3": "DOM",
+    "type": "Numeric",
+    "description": 9999,
+    "observactions": "9999 - not ratified(?)"
+  },
+  {
+    "subject_id": 9,
+    "subject_name": "Year of ratificatin of  international convention on the protection of the rights of all migrant workers and their families",
+    "country_name": "ECUADOR",
+    "iso3": "ECU",
+    "type": "Numeric",
+    "description": 2002,
+    "observactions": ""
+  },
+  {
+    "subject_id": 9,
+    "subject_name": "Year of ratificatin of  international convention on the protection of the rights of all migrant workers and their families",
+    "country_name": "GUATEMALA",
+    "iso3": "GTM",
+    "type": "Numeric",
+    "description": 2003,
+    "observactions": ""
+  },
+  {
+    "subject_id": 9,
+    "subject_name": "Year of ratificatin of  international convention on the protection of the rights of all migrant workers and their families",
+    "country_name": "HONDURAS",
+    "iso3": "HND",
+    "type": "Numeric",
+    "description": 2005,
+    "observactions": ""
+  },
+  {
+    "subject_id": 9,
+    "subject_name": "Year of ratificatin of  international convention on the protection of the rights of all migrant workers and their families",
+    "country_name": "MEXICO",
+    "iso3": "MEX",
+    "type": "Numeric",
+    "description": 1999,
+    "observactions": ""
+  },
+  {
+    "subject_id": 9,
+    "subject_name": "Year of ratificatin of  international convention on the protection of the rights of all migrant workers and their families",
+    "country_name": "NICARAGUA",
+    "iso3": "NIC",
+    "type": "Numeric",
+    "description": 2005,
+    "observactions": ""
+  },
+  {
+    "subject_id": 9,
+    "subject_name": "Year of ratificatin of  international convention on the protection of the rights of all migrant workers and their families",
+    "country_name": "PERU",
+    "iso3": "PER",
+    "type": "Numeric",
+    "description": 2100,
+    "observactions": ""
+  },
+  {
+    "subject_id": 9,
+    "subject_name": "Year of ratificatin of  international convention on the protection of the rights of all migrant workers and their families",
+    "country_name": "PARAGUAY",
+    "iso3": "PRY",
+    "type": "Numeric",
+    "description": 2008,
+    "observactions": ""
+  },
+  {
+    "subject_id": 9,
+    "subject_name": "Year of ratificatin of  international convention on the protection of the rights of all migrant workers and their families",
+    "country_name": "EL SALVADOR",
+    "iso3": "SLV",
+    "type": "Numeric",
+    "description": 2003,
+    "observactions": ""
+  },
+  {
+    "subject_id": 9,
+    "subject_name": "Year of ratificatin of  international convention on the protection of the rights of all migrant workers and their families",
+    "country_name": "URUGUAY",
+    "iso3": "URY",
+    "type": "Numeric",
+    "description": 2001,
+    "observactions": ""
+  }
+]

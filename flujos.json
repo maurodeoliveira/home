@@ -1,0 +1,3938 @@
+[
+  {
+    "iso_origin": "ABW",
+    "name_origin": "ARUBA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 47
+  },
+  {
+    "iso_origin": "AFG",
+    "name_origin": "AFGHANISTAN",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "AFG",
+    "name_origin": "AFGHANISTAN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 19538
+  },
+  {
+    "iso_origin": "AGO",
+    "name_origin": "ANGOLA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 209
+  },
+  {
+    "iso_origin": "AGO",
+    "name_origin": "ANGOLA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "AGO",
+    "name_origin": "ANGOLA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "AIA",
+    "name_origin": "ANGUILLA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 23
+  },
+  {
+    "iso_origin": "ALB",
+    "name_origin": "ALBANIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 5722
+  },
+  {
+    "iso_origin": "ALB",
+    "name_origin": "ALBANIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 4
+  },
+  {
+    "iso_origin": "AND",
+    "name_origin": "ANDORRA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 3
+  },
+  {
+    "iso_origin": "ANT",
+    "name_origin": "NETHERLANDS ANTILLES",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 9
+  },
+  {
+    "iso_origin": "ARE",
+    "name_origin": "UNITED ARAB EMIRATES",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1314
+  },
+  {
+    "iso_origin": "ARE",
+    "name_origin": "UNITED ARAB EMIRATES",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 1154
+  },
+  {
+    "iso_origin": "ARG",
+    "name_origin": "ARGENTINA",
+    "iso_destination": "MEX",
+    "name_destination": "MEXICO",
+    "year": 2017,
+    "number": 1003
+  },
+  {
+    "iso_origin": "ARG",
+    "name_origin": "ARGENTINA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 371
+  },
+  {
+    "iso_origin": "ARG",
+    "name_origin": "ARGENTINA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1922
+  },
+  {
+    "iso_origin": "ARG",
+    "name_origin": "ARGENTINA",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 858
+  },
+  {
+    "iso_origin": "ARG",
+    "name_origin": "ARGENTINA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 3482
+  },
+  {
+    "iso_origin": "ARM",
+    "name_origin": "ARMENIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 3437
+  },
+  {
+    "iso_origin": "ARM",
+    "name_origin": "ARMENIA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "ATG",
+    "name_origin": "ANTIGUA AND BARBUDA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 322
+  },
+  {
+    "iso_origin": "AUS",
+    "name_origin": "AUSTRALIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 57
+  },
+  {
+    "iso_origin": "AUS",
+    "name_origin": "AUSTRALIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 2906
+  },
+  {
+    "iso_origin": "AUS",
+    "name_origin": "AUSTRALIA",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 24986
+  },
+  {
+    "iso_origin": "AUS",
+    "name_origin": "AUSTRALIA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 82
+  },
+  {
+    "iso_origin": "AUT",
+    "name_origin": "AUSTRIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 15
+  },
+  {
+    "iso_origin": "AUT",
+    "name_origin": "AUSTRIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 387
+  },
+  {
+    "iso_origin": "AUT",
+    "name_origin": "AUSTRIA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 26
+  },
+  {
+    "iso_origin": "AZE",
+    "name_origin": "AZERBAIJAN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 881
+  },
+  {
+    "iso_origin": "BDI",
+    "name_origin": "BURUNDI",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1094
+  },
+  {
+    "iso_origin": "BEL",
+    "name_origin": "BELGUIM",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 625
+  },
+  {
+    "iso_origin": "BEL",
+    "name_origin": "BELGUIM",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 61
+  },
+  {
+    "iso_origin": "BEL",
+    "name_origin": "BELGUIM",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 54
+  },
+  {
+    "iso_origin": "BEN",
+    "name_origin": "BENIN",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "BEN",
+    "name_origin": "BENIN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 648
+  },
+  {
+    "iso_origin": "BFA",
+    "name_origin": "BURKINA FASO",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 541
+  },
+  {
+    "iso_origin": "BGD",
+    "name_origin": "BANGLADESH",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 3
+  },
+  {
+    "iso_origin": "BGD",
+    "name_origin": "BANGLADESH",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 14693
+  },
+  {
+    "iso_origin": "BGD",
+    "name_origin": "BANGLADESH",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "BGR",
+    "name_origin": "BULGARIA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 10
+  },
+  {
+    "iso_origin": "BGR",
+    "name_origin": "BULGARIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 2184
+  },
+  {
+    "iso_origin": "BGR",
+    "name_origin": "BULGARIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 25
+  },
+  {
+    "iso_origin": "BHR",
+    "name_origin": "BAHRAIN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 130
+  },
+  {
+    "iso_origin": "BHS",
+    "name_origin": "BAHAMAS",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "BHS",
+    "name_origin": "BAHAMAS",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 725
+  },
+  {
+    "iso_origin": "BIH",
+    "name_origin": "BOSNIA AND HERZEGOVINA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 4
+  },
+  {
+    "iso_origin": "BIH",
+    "name_origin": "BOSNIA AND HERZEGOVINA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 846
+  },
+  {
+    "iso_origin": "BIH",
+    "name_origin": "BOSNIA AND HERZEGOVINA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "BLR",
+    "name_origin": "BELARUS",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1919
+  },
+  {
+    "iso_origin": "BLR",
+    "name_origin": "BELARUS",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 6
+  },
+  {
+    "iso_origin": "BLZ",
+    "name_origin": "BELIZE",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 5
+  },
+  {
+    "iso_origin": "BLZ",
+    "name_origin": "BELIZE",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 746
+  },
+  {
+    "iso_origin": "BLZ",
+    "name_origin": "BELIZE",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "BMU",
+    "name_origin": "BERMUDA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "BMU",
+    "name_origin": "BERMUDA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 68
+  },
+  {
+    "iso_origin": "BOL",
+    "name_origin": "BOLIVIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 7835
+  },
+  {
+    "iso_origin": "BOL",
+    "name_origin": "BOLIVIA",
+    "iso_destination": "ARG",
+    "name_destination": "ARGENTINA",
+    "year": 2017,
+    "number": 20524
+  },
+  {
+    "iso_origin": "BOL",
+    "name_origin": "BOLIVIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1510
+  },
+  {
+    "iso_origin": "BOL",
+    "name_origin": "BOLIVIA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 43
+  },
+  {
+    "iso_origin": "BRA",
+    "name_origin": "BRAZIL",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 14989
+  },
+  {
+    "iso_origin": "BRA",
+    "name_origin": "BRAZIL",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 642
+  },
+  {
+    "iso_origin": "BRA",
+    "name_origin": "BRAZIL",
+    "iso_destination": "MEX",
+    "name_destination": "MEXICO",
+    "year": 2017,
+    "number": 541
+  },
+  {
+    "iso_origin": "BRA",
+    "name_origin": "BRAZIL",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 778
+  },
+  {
+    "iso_origin": "BRA",
+    "name_origin": "BRAZIL",
+    "iso_destination": "ARG",
+    "name_destination": "ARGENTINA",
+    "year": 2017,
+    "number": 6922
+  },
+  {
+    "iso_origin": "BRA",
+    "name_origin": "BRAZIL",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1014
+  },
+  {
+    "iso_origin": "BRB",
+    "name_origin": "BARBADOS",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "BRB",
+    "name_origin": "BARBADOS",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 373
+  },
+  {
+    "iso_origin": "BRN",
+    "name_origin": "BRUNEI DARUSSALAM",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 24
+  },
+  {
+    "iso_origin": "BTN",
+    "name_origin": "BHUTAN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 2940
+  },
+  {
+    "iso_origin": "BWA",
+    "name_origin": "BOTSWANA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 112
+  },
+  {
+    "iso_origin": "CAF",
+    "name_origin": "CENTRAL AFRICAN REPUBLIC",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 178
+  },
+  {
+    "iso_origin": "CAN",
+    "name_origin": "CANADA",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 2576
+  },
+  {
+    "iso_origin": "CAN",
+    "name_origin": "CANADA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 83
+  },
+  {
+    "iso_origin": "CAN",
+    "name_origin": "CANADA",
+    "iso_destination": "MEX",
+    "name_destination": "MEXICO",
+    "year": 2017,
+    "number": 1296
+  },
+  {
+    "iso_origin": "CAN",
+    "name_origin": "CANADA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 11484
+  },
+  {
+    "iso_origin": "CAN",
+    "name_origin": "CANADA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 300
+  },
+  {
+    "iso_origin": "CHE",
+    "name_origin": "SWITZERLAND",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 41
+  },
+  {
+    "iso_origin": "CHE",
+    "name_origin": "SWITZERLAND",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 129
+  },
+  {
+    "iso_origin": "CHE",
+    "name_origin": "SWITZERLAND",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 565
+  },
+  {
+    "iso_origin": "CHL",
+    "name_origin": "CHILE",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 682
+  },
+  {
+    "iso_origin": "CHL",
+    "name_origin": "CHILE",
+    "iso_destination": "ARG",
+    "name_destination": "ARGENTINA",
+    "year": 2017,
+    "number": 1611
+  },
+  {
+    "iso_origin": "CHL",
+    "name_origin": "CHILE",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 196
+  },
+  {
+    "iso_origin": "CHL",
+    "name_origin": "CHILE",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1625
+  },
+  {
+    "iso_origin": "CHN",
+    "name_origin": "CHINA",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 12098
+  },
+  {
+    "iso_origin": "CHN",
+    "name_origin": "CHINA",
+    "iso_destination": "ARG",
+    "name_destination": "ARGENTINA",
+    "year": 2017,
+    "number": 1666
+  },
+  {
+    "iso_origin": "CHN",
+    "name_origin": "CHINA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1630
+  },
+  {
+    "iso_origin": "CHN",
+    "name_origin": "CHINA",
+    "iso_destination": "MEX",
+    "name_destination": "MEXICO",
+    "year": 2017,
+    "number": 1489
+  },
+  {
+    "iso_origin": "CHN",
+    "name_origin": "CHINA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 855
+  },
+  {
+    "iso_origin": "CHN",
+    "name_origin": "CHINA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 71565
+  },
+  {
+    "iso_origin": "CIV",
+    "name_origin": "COTE DIVOIRE",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "CIV",
+    "name_origin": "COTE DIVOIRE",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1810
+  },
+  {
+    "iso_origin": "CMR",
+    "name_origin": "CAMEROON",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 4
+  },
+  {
+    "iso_origin": "CMR",
+    "name_origin": "CAMEROON",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 4668
+  },
+  {
+    "iso_origin": "COG",
+    "name_origin": "CONGO",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 632
+  },
+  {
+    "iso_origin": "COG",
+    "name_origin": "CONGO",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 8709
+  },
+  {
+    "iso_origin": "COG",
+    "name_origin": "CONGO",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 7
+  },
+  {
+    "iso_origin": "COL",
+    "name_origin": "COLOMBIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 18938
+  },
+  {
+    "iso_origin": "COL",
+    "name_origin": "COLOMBIA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 3023
+  },
+  {
+    "iso_origin": "COL",
+    "name_origin": "COLOMBIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 17956
+  },
+  {
+    "iso_origin": "COL",
+    "name_origin": "COLOMBIA",
+    "iso_destination": "MEX",
+    "name_destination": "MEXICO",
+    "year": 2017,
+    "number": 2162
+  },
+  {
+    "iso_origin": "COL",
+    "name_origin": "COLOMBIA",
+    "iso_destination": "ARG",
+    "name_destination": "ARGENTINA",
+    "year": 2017,
+    "number": 5699
+  },
+  {
+    "iso_origin": "COM",
+    "name_origin": "COMOROS",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 4
+  },
+  {
+    "iso_origin": "CPV",
+    "name_origin": "CAPE VERDE",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 2618
+  },
+  {
+    "iso_origin": "CPV",
+    "name_origin": "CAPE VERDE",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "CRI",
+    "name_origin": "COSTA RICA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 2184
+  },
+  {
+    "iso_origin": "CRI",
+    "name_origin": "COSTA RICA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 68
+  },
+  {
+    "iso_origin": "CRI",
+    "name_origin": "COSTA RICA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 513
+  },
+  {
+    "iso_origin": "CUB",
+    "name_origin": "CUBA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 791
+  },
+  {
+    "iso_origin": "CUB",
+    "name_origin": "CUBA",
+    "iso_destination": "MEX",
+    "name_destination": "MEXICO",
+    "year": 2017,
+    "number": 2129
+  },
+  {
+    "iso_origin": "CUB",
+    "name_origin": "CUBA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 65028
+  },
+  {
+    "iso_origin": "CUB",
+    "name_origin": "CUBA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 186
+  },
+  {
+    "iso_origin": "CUR",
+    "name_origin": "CURAZAO ISLAND",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 34
+  },
+  {
+    "iso_origin": "CYM",
+    "name_origin": "CAYMAN ISLANDS",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 67
+  },
+  {
+    "iso_origin": "CYM",
+    "name_origin": "CAYMAN ISLANDS",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "CYP",
+    "name_origin": "CYPRUS",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "CYP",
+    "name_origin": "CYPRUS",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 117
+  },
+  {
+    "iso_origin": "CZE",
+    "name_origin": "CZECH REPUBLIC",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 582
+  },
+  {
+    "iso_origin": "CZE",
+    "name_origin": "CZECH REPUBLIC",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 10
+  },
+  {
+    "iso_origin": "CZE",
+    "name_origin": "CZECH REPUBLIC",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 704
+  },
+  {
+    "iso_origin": "CZE",
+    "name_origin": "CZECH REPUBLIC",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 10
+  },
+  {
+    "iso_origin": "CZE",
+    "name_origin": "CZECH REPUBLIC",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 52
+  },
+  {
+    "iso_origin": "DEU",
+    "name_origin": "GERMANY",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 4366
+  },
+  {
+    "iso_origin": "DEU",
+    "name_origin": "GERMANY",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 4662
+  },
+  {
+    "iso_origin": "DEU",
+    "name_origin": "GERMANY",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 198
+  },
+  {
+    "iso_origin": "DEU",
+    "name_origin": "GERMANY",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 208
+  },
+  {
+    "iso_origin": "DJI",
+    "name_origin": "DJIBOUTI",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "DJI",
+    "name_origin": "DJIBOUTI",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 222
+  },
+  {
+    "iso_origin": "DMA",
+    "name_origin": "DOMINICA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1400
+  },
+  {
+    "iso_origin": "DMA",
+    "name_origin": "DOMINICA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 58520
+  },
+  {
+    "iso_origin": "DMA",
+    "name_origin": "DOMINICA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 605
+  },
+  {
+    "iso_origin": "DMA",
+    "name_origin": "DOMINICA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 510
+  },
+  {
+    "iso_origin": "DNK",
+    "name_origin": "DENMARK",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 22
+  },
+  {
+    "iso_origin": "DNK",
+    "name_origin": "DENMARK",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 21
+  },
+  {
+    "iso_origin": "DNK",
+    "name_origin": "DENMARK",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 461
+  },
+  {
+    "iso_origin": "DOM",
+    "name_origin": "DOMINICAN REPUBLIC",
+    "iso_destination": "ARG",
+    "name_destination": "ARGENTINA",
+    "year": 2017,
+    "number": 805
+  },
+  {
+    "iso_origin": "DZA",
+    "name_origin": "ALGERIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 2139
+  },
+  {
+    "iso_origin": "DZA",
+    "name_origin": "ALGERIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 4
+  },
+  {
+    "iso_origin": "ECU",
+    "name_origin": "ECUADOR",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 10594
+  },
+  {
+    "iso_origin": "ECU",
+    "name_origin": "ECUADOR",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 213
+  },
+  {
+    "iso_origin": "ECU",
+    "name_origin": "ECUADOR",
+    "iso_destination": "ARG",
+    "name_destination": "ARGENTINA",
+    "year": 2017,
+    "number": 860
+  },
+  {
+    "iso_origin": "ECU",
+    "name_origin": "ECUADOR",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 2591
+  },
+  {
+    "iso_origin": "EGY",
+    "name_origin": "EGYPT",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 9834
+  },
+  {
+    "iso_origin": "EGY",
+    "name_origin": "EGYPT",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 13
+  },
+  {
+    "iso_origin": "ERI",
+    "name_origin": "ERITREA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 176
+  },
+  {
+    "iso_origin": "ERI",
+    "name_origin": "ERITREA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 2449
+  },
+  {
+    "iso_origin": "ESH",
+    "name_origin": "WESTERN SAHARA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "ESP",
+    "name_origin": "SPAIN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 3045
+  },
+  {
+    "iso_origin": "ESP",
+    "name_origin": "SPAIN",
+    "iso_destination": "ARG",
+    "name_destination": "ARGENTINA",
+    "year": 2017,
+    "number": 511
+  },
+  {
+    "iso_origin": "ESP",
+    "name_origin": "SPAIN",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1170
+  },
+  {
+    "iso_origin": "ESP",
+    "name_origin": "SPAIN",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1408
+  },
+  {
+    "iso_origin": "ETH",
+    "name_origin": "ETHIOPIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 14637
+  },
+  {
+    "iso_origin": "ETH",
+    "name_origin": "ETHIOPIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "FIN",
+    "name_origin": "FINLAND",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 9
+  },
+  {
+    "iso_origin": "FIN",
+    "name_origin": "FINLAND",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 13
+  },
+  {
+    "iso_origin": "FIN",
+    "name_origin": "FINLAND",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 439
+  },
+  {
+    "iso_origin": "FJI",
+    "name_origin": "FIJI",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 805
+  },
+  {
+    "iso_origin": "FJI",
+    "name_origin": "FIJI",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 1879
+  },
+  {
+    "iso_origin": "FRA",
+    "name_origin": "FRANCE",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 427
+  },
+  {
+    "iso_origin": "FRA",
+    "name_origin": "FRANCE",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 489
+  },
+  {
+    "iso_origin": "FRA",
+    "name_origin": "FRANCE",
+    "iso_destination": "ARG",
+    "name_destination": "ARGENTINA",
+    "year": 2017,
+    "number": 206
+  },
+  {
+    "iso_origin": "FRA",
+    "name_origin": "FRANCE",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 4451
+  },
+  {
+    "iso_origin": "FRA",
+    "name_origin": "FRANCE",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 4782
+  },
+  {
+    "iso_origin": "FRA",
+    "name_origin": "FRANCE",
+    "iso_destination": "MEX",
+    "name_destination": "MEXICO",
+    "year": 2017,
+    "number": 620
+  },
+  {
+    "iso_origin": "FSM",
+    "name_origin": "MICRONESIA FEDERATED STATES OF",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 6
+  },
+  {
+    "iso_origin": "GAB",
+    "name_origin": "GABON",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 150
+  },
+  {
+    "iso_origin": "GBR",
+    "name_origin": "UNITED KINGDOM",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 10948
+  },
+  {
+    "iso_origin": "GBR",
+    "name_origin": "UNITED KINGDOM",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 25
+  },
+  {
+    "iso_origin": "GBR",
+    "name_origin": "UNITED KINGDOM",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 31
+  },
+  {
+    "iso_origin": "GBR",
+    "name_origin": "UNITED KINGDOM",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 10135
+  },
+  {
+    "iso_origin": "GBR",
+    "name_origin": "UNITED KINGDOM",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 60
+  },
+  {
+    "iso_origin": "GBR",
+    "name_origin": "UNITED KINGDOM",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 15155
+  },
+  {
+    "iso_origin": "GBR",
+    "name_origin": "UNITED KINGDOM",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 20
+  },
+  {
+    "iso_origin": "GBR",
+    "name_origin": "UNITED KINGDOM",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 151
+  },
+  {
+    "iso_origin": "GBR",
+    "name_origin": "UNITED KINGDOM",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 18
+  },
+  {
+    "iso_origin": "GEO",
+    "name_origin": "GEORGIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1629
+  },
+  {
+    "iso_origin": "GEO",
+    "name_origin": "GEORGIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "GHA",
+    "name_origin": "GHANA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 4
+  },
+  {
+    "iso_origin": "GHA",
+    "name_origin": "GHANA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 8455
+  },
+  {
+    "iso_origin": "GHA",
+    "name_origin": "GHANA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 4
+  },
+  {
+    "iso_origin": "GIN",
+    "name_origin": "GUINEA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "GIN",
+    "name_origin": "GUINEA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 48
+  },
+  {
+    "iso_origin": "GIN",
+    "name_origin": "GUINEA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1348
+  },
+  {
+    "iso_origin": "GMB",
+    "name_origin": "GAMBIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1134
+  },
+  {
+    "iso_origin": "GNQ",
+    "name_origin": "EQUATORIAL GUINEA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 20
+  },
+  {
+    "iso_origin": "GRC",
+    "name_origin": "GREECE",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1314
+  },
+  {
+    "iso_origin": "GRC",
+    "name_origin": "GREECE",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 14
+  },
+  {
+    "iso_origin": "GRC",
+    "name_origin": "GREECE",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 29
+  },
+  {
+    "iso_origin": "GRD",
+    "name_origin": "GRENADA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 544
+  },
+  {
+    "iso_origin": "GTM",
+    "name_origin": "GUATEMALA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 37
+  },
+  {
+    "iso_origin": "GTM",
+    "name_origin": "GUATEMALA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 203
+  },
+  {
+    "iso_origin": "GTM",
+    "name_origin": "GUATEMALA",
+    "iso_destination": "MEX",
+    "name_destination": "MEXICO",
+    "year": 2017,
+    "number": 1784
+  },
+  {
+    "iso_origin": "GTM",
+    "name_origin": "GUATEMALA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 13198
+  },
+  {
+    "iso_origin": "GUF",
+    "name_origin": "FRENCH GUIANA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "GUY",
+    "name_origin": "GUYANA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 5468
+  },
+  {
+    "iso_origin": "GUY",
+    "name_origin": "GUYANA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "HKG",
+    "name_origin": "HONG KONG",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "HKG",
+    "name_origin": "HONG KONG",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 5
+  },
+  {
+    "iso_origin": "HKG",
+    "name_origin": "HONG KONG",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 1052
+  },
+  {
+    "iso_origin": "HKG",
+    "name_origin": "HONG KONG",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 2415
+  },
+  {
+    "iso_origin": "HND",
+    "name_origin": "HONDURAS",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 11387
+  },
+  {
+    "iso_origin": "HND",
+    "name_origin": "HONDURAS",
+    "iso_destination": "MEX",
+    "name_destination": "MEXICO",
+    "year": 2017,
+    "number": 2453
+  },
+  {
+    "iso_origin": "HND",
+    "name_origin": "HONDURAS",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 67
+  },
+  {
+    "iso_origin": "HND",
+    "name_origin": "HONDURAS",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 206
+  },
+  {
+    "iso_origin": "HRV",
+    "name_origin": "CROATIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 5
+  },
+  {
+    "iso_origin": "HRV",
+    "name_origin": "CROATIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 375
+  },
+  {
+    "iso_origin": "HRV",
+    "name_origin": "CROATIA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 6
+  },
+  {
+    "iso_origin": "HTI",
+    "name_origin": "HAITI",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 13
+  },
+  {
+    "iso_origin": "HTI",
+    "name_origin": "HAITI",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 21824
+  },
+  {
+    "iso_origin": "HTI",
+    "name_origin": "HAITI",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 11276
+  },
+  {
+    "iso_origin": "HUN",
+    "name_origin": "HUNGARY",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 3
+  },
+  {
+    "iso_origin": "HUN",
+    "name_origin": "HUNGARY",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 24
+  },
+  {
+    "iso_origin": "HUN",
+    "name_origin": "HUNGARY",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 972
+  },
+  {
+    "iso_origin": "IDN",
+    "name_origin": "INDONESIA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 5
+  },
+  {
+    "iso_origin": "IDN",
+    "name_origin": "INDONESIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1914
+  },
+  {
+    "iso_origin": "IDN",
+    "name_origin": "INDONESIA",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 775
+  },
+  {
+    "iso_origin": "IDN",
+    "name_origin": "INDONESIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 7
+  },
+  {
+    "iso_origin": "IND",
+    "name_origin": "INDIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 197
+  },
+  {
+    "iso_origin": "IND",
+    "name_origin": "INDIA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 167
+  },
+  {
+    "iso_origin": "IND",
+    "name_origin": "INDIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 60394
+  },
+  {
+    "iso_origin": "IND",
+    "name_origin": "INDIA",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 9111
+  },
+  {
+    "iso_origin": "IRL",
+    "name_origin": "IRELAND",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 1173
+  },
+  {
+    "iso_origin": "IRL",
+    "name_origin": "IRELAND",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 18
+  },
+  {
+    "iso_origin": "IRL",
+    "name_origin": "IRELAND",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1485
+  },
+  {
+    "iso_origin": "IRL",
+    "name_origin": "IRELAND",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 13
+  },
+  {
+    "iso_origin": "IRN",
+    "name_origin": "IRAN (ISLAMIC REPUBLIC OF)",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "IRN",
+    "name_origin": "IRAN (ISLAMIC REPUBLIC OF)",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 13791
+  },
+  {
+    "iso_origin": "IRN",
+    "name_origin": "IRAN (ISLAMIC REPUBLIC OF)",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 19
+  },
+  {
+    "iso_origin": "IRQ",
+    "name_origin": "IRAQ",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 14203
+  },
+  {
+    "iso_origin": "IRQ",
+    "name_origin": "IRAQ",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "ISL",
+    "name_origin": "ICELAND",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "ISL",
+    "name_origin": "ICELAND",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 86
+  },
+  {
+    "iso_origin": "ISR",
+    "name_origin": "ISRAEL",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 22
+  },
+  {
+    "iso_origin": "ISR",
+    "name_origin": "ISRAEL",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 88
+  },
+  {
+    "iso_origin": "ISR",
+    "name_origin": "ISRAEL",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 3802
+  },
+  {
+    "iso_origin": "ITA",
+    "name_origin": "ITALY",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 546
+  },
+  {
+    "iso_origin": "ITA",
+    "name_origin": "ITALY",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 896
+  },
+  {
+    "iso_origin": "ITA",
+    "name_origin": "ITALY",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 3655
+  },
+  {
+    "iso_origin": "ITA",
+    "name_origin": "ITALY",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 285
+  },
+  {
+    "iso_origin": "JAM",
+    "name_origin": "JAMAICA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 22
+  },
+  {
+    "iso_origin": "JAM",
+    "name_origin": "JAMAICA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 21905
+  },
+  {
+    "iso_origin": "JAM",
+    "name_origin": "JAMAICA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "JOR",
+    "name_origin": "JORDAN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 5264
+  },
+  {
+    "iso_origin": "JOR",
+    "name_origin": "JORDAN",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 7
+  },
+  {
+    "iso_origin": "JOR",
+    "name_origin": "JORDAN",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 3
+  },
+  {
+    "iso_origin": "JPN",
+    "name_origin": "JAPAN",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 97
+  },
+  {
+    "iso_origin": "JPN",
+    "name_origin": "JAPAN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 4635
+  },
+  {
+    "iso_origin": "JPN",
+    "name_origin": "JAPAN",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 2454
+  },
+  {
+    "iso_origin": "JPN",
+    "name_origin": "JAPAN",
+    "iso_destination": "MEX",
+    "name_destination": "MEXICO",
+    "year": 2017,
+    "number": 609
+  },
+  {
+    "iso_origin": "JPN",
+    "name_origin": "JAPAN",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 123
+  },
+  {
+    "iso_origin": "KAZ",
+    "name_origin": "KAZAKHSTAN",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "KAZ",
+    "name_origin": "KAZAKHSTAN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1377
+  },
+  {
+    "iso_origin": "KEN",
+    "name_origin": "KENYA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "KEN",
+    "name_origin": "KENYA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 3
+  },
+  {
+    "iso_origin": "KEN",
+    "name_origin": "KENYA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 6957
+  },
+  {
+    "iso_origin": "KGZ",
+    "name_origin": "KYRGYZSTAN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 715
+  },
+  {
+    "iso_origin": "KHM",
+    "name_origin": "CAMBODIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 4056
+  },
+  {
+    "iso_origin": "KNA",
+    "name_origin": "SAINT KITTS AND NEVIS",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "KNA",
+    "name_origin": "SAINT KITTS AND NEVIS",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 238
+  },
+  {
+    "iso_origin": "KOR",
+    "name_origin": "KOREA REPUBLIC OF",
+    "iso_destination": "MEX",
+    "name_destination": "MEXICO",
+    "year": 2017,
+    "number": 454
+  },
+  {
+    "iso_origin": "KOR",
+    "name_origin": "KOREA REPUBLIC OF",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 217
+  },
+  {
+    "iso_origin": "KOR",
+    "name_origin": "KOREA REPUBLIC OF",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 2843
+  },
+  {
+    "iso_origin": "KOR",
+    "name_origin": "KOREA REPUBLIC OF",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1014
+  },
+  {
+    "iso_origin": "KOR",
+    "name_origin": "KOREA REPUBLIC OF",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 19194
+  },
+  {
+    "iso_origin": "KOR",
+    "name_origin": "KOREA REPUBLIC OF",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 132
+  },
+  {
+    "iso_origin": "KWT",
+    "name_origin": "KUWAIT",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1177
+  },
+  {
+    "iso_origin": "LAO",
+    "name_origin": "LAO PEOPLES DEMOCRATIC REPUBLIC",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 685
+  },
+  {
+    "iso_origin": "LBN",
+    "name_origin": "LEBANON",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 10
+  },
+  {
+    "iso_origin": "LBN",
+    "name_origin": "LEBANON",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 2818
+  },
+  {
+    "iso_origin": "LBN",
+    "name_origin": "LEBANON",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 12
+  },
+  {
+    "iso_origin": "LBR",
+    "name_origin": "LIBERIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 4155
+  },
+  {
+    "iso_origin": "LBY",
+    "name_origin": "LIBYAN ARAB JAMAHIRIYA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 780
+  },
+  {
+    "iso_origin": "LCA",
+    "name_origin": "SAINT LUCIA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "LCA",
+    "name_origin": "SAINT LUCIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 777
+  },
+  {
+    "iso_origin": "LIE",
+    "name_origin": "LIECHTENSTEIN",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "LIE",
+    "name_origin": "LIECHTENSTEIN",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "LKA",
+    "name_origin": "SRI LANKA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "LKA",
+    "name_origin": "SRI LANKA",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 1035
+  },
+  {
+    "iso_origin": "LKA",
+    "name_origin": "SRI LANKA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1627
+  },
+  {
+    "iso_origin": "LKA",
+    "name_origin": "SRI LANKA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 5
+  },
+  {
+    "iso_origin": "LSO",
+    "name_origin": "LESOTHO",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 24
+  },
+  {
+    "iso_origin": "LTU",
+    "name_origin": "LITHUANIA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "LTU",
+    "name_origin": "LITHUANIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 3
+  },
+  {
+    "iso_origin": "LTU",
+    "name_origin": "LITHUANIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 645
+  },
+  {
+    "iso_origin": "LUX",
+    "name_origin": "LUXEMBOURG",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "LUX",
+    "name_origin": "LUXEMBOURG",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 33
+  },
+  {
+    "iso_origin": "LUX",
+    "name_origin": "LUXEMBOURG",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "LVA",
+    "name_origin": "LATVIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "LVA",
+    "name_origin": "LATVIA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "LVA",
+    "name_origin": "LATVIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 359
+  },
+  {
+    "iso_origin": "MAC",
+    "name_origin": "MACAU",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "MAC",
+    "name_origin": "MACAU",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 109
+  },
+  {
+    "iso_origin": "MAR",
+    "name_origin": "MOROCCO",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 12
+  },
+  {
+    "iso_origin": "MAR",
+    "name_origin": "MOROCCO",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 4229
+  },
+  {
+    "iso_origin": "MCO",
+    "name_origin": "MONACO",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 14
+  },
+  {
+    "iso_origin": "MDA",
+    "name_origin": "MOLDOVA REPUBLIC OF",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "MDA",
+    "name_origin": "MOLDOVA REPUBLIC OF",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 2480
+  },
+  {
+    "iso_origin": "MDG",
+    "name_origin": "MADAGASCAR",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "MDG",
+    "name_origin": "MADAGASCAR",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 60
+  },
+  {
+    "iso_origin": "MDV",
+    "name_origin": "MALDIVES",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 5
+  },
+  {
+    "iso_origin": "MEX",
+    "name_origin": "MEXICO",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 170581
+  },
+  {
+    "iso_origin": "MEX",
+    "name_origin": "MEXICO",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 484
+  },
+  {
+    "iso_origin": "MEX",
+    "name_origin": "MEXICO",
+    "iso_destination": "ARG",
+    "name_destination": "ARGENTINA",
+    "year": 2017,
+    "number": 403
+  },
+  {
+    "iso_origin": "MEX",
+    "name_origin": "MEXICO",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 629
+  },
+  {
+    "iso_origin": "MHL",
+    "name_origin": "MARSHALL ISLANDS",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 23
+  },
+  {
+    "iso_origin": "MKD",
+    "name_origin": "MACEDONIA THE FORMER YUGOSLAV REPUBLIC OF",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "MKD",
+    "name_origin": "MACEDONIA THE FORMER YUGOSLAV REPUBLIC OF",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1027
+  },
+  {
+    "iso_origin": "MKD",
+    "name_origin": "MACEDONIA THE FORMER YUGOSLAV REPUBLIC OF",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "MLI",
+    "name_origin": "MALI",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 7404
+  },
+  {
+    "iso_origin": "MLI",
+    "name_origin": "MALI",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 544
+  },
+  {
+    "iso_origin": "MLT",
+    "name_origin": "MALTA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 75
+  },
+  {
+    "iso_origin": "MLT",
+    "name_origin": "MALTA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "MMR",
+    "name_origin": "MYANMAR",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 12897
+  },
+  {
+    "iso_origin": "MNE",
+    "name_origin": "MONTENEGRO",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 323
+  },
+  {
+    "iso_origin": "MNE",
+    "name_origin": "MONTENEGRO",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "MNG",
+    "name_origin": "MONGOLIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 661
+  },
+  {
+    "iso_origin": "MOZ",
+    "name_origin": "MOZAMBIQUE",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "MOZ",
+    "name_origin": "MOZAMBIQUE",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 96
+  },
+  {
+    "iso_origin": "MRT",
+    "name_origin": "MAURITANIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 287
+  },
+  {
+    "iso_origin": "MRT",
+    "name_origin": "MAURITANIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "MSR",
+    "name_origin": "MONTSERRAT",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 12
+  },
+  {
+    "iso_origin": "MUS",
+    "name_origin": "MAURITIUS",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 96
+  },
+  {
+    "iso_origin": "MWI",
+    "name_origin": "MALAWI",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 228
+  },
+  {
+    "iso_origin": "MYS",
+    "name_origin": "MALAYSIA",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 1573
+  },
+  {
+    "iso_origin": "MYS",
+    "name_origin": "MALAYSIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 5
+  },
+  {
+    "iso_origin": "MYS",
+    "name_origin": "MALAYSIA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "MYS",
+    "name_origin": "MALAYSIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 4109
+  },
+  {
+    "iso_origin": "NAM",
+    "name_origin": "NAMIBIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 130
+  },
+  {
+    "iso_origin": "NCL",
+    "name_origin": "NEW CALEDONIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 4
+  },
+  {
+    "iso_origin": "NER",
+    "name_origin": "NIGER",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "NER",
+    "name_origin": "NIGER",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 13539
+  },
+  {
+    "iso_origin": "NER",
+    "name_origin": "NIGER",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 116
+  },
+  {
+    "iso_origin": "NER",
+    "name_origin": "NIGER",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 5
+  },
+  {
+    "iso_origin": "NIC",
+    "name_origin": "NICARAGUA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 481
+  },
+  {
+    "iso_origin": "NIC",
+    "name_origin": "NICARAGUA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 3072
+  },
+  {
+    "iso_origin": "NIC",
+    "name_origin": "NICARAGUA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 30
+  },
+  {
+    "iso_origin": "NLD",
+    "name_origin": "NETHERLANDS",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 84
+  },
+  {
+    "iso_origin": "NLD",
+    "name_origin": "NETHERLANDS",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 3
+  },
+  {
+    "iso_origin": "NLD",
+    "name_origin": "NETHERLANDS",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1056
+  },
+  {
+    "iso_origin": "NLD",
+    "name_origin": "NETHERLANDS",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 39
+  },
+  {
+    "iso_origin": "NLD",
+    "name_origin": "NETHERLANDS",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 771
+  },
+  {
+    "iso_origin": "NOR",
+    "name_origin": "NORWAY",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 290
+  },
+  {
+    "iso_origin": "NOR",
+    "name_origin": "NORWAY",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 18
+  },
+  {
+    "iso_origin": "NOR",
+    "name_origin": "NORWAY",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 5
+  },
+  {
+    "iso_origin": "NPL",
+    "name_origin": "NEPAL",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 11610
+  },
+  {
+    "iso_origin": "NPL",
+    "name_origin": "NEPAL",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 37
+  },
+  {
+    "iso_origin": "NZL",
+    "name_origin": "NEW ZEALAND",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 15
+  },
+  {
+    "iso_origin": "NZL",
+    "name_origin": "NEW ZEALAND",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 5
+  },
+  {
+    "iso_origin": "NZL",
+    "name_origin": "NEW ZEALAND",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 798
+  },
+  {
+    "iso_origin": "OMN",
+    "name_origin": "OMAN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 104
+  },
+  {
+    "iso_origin": "PAK",
+    "name_origin": "PAKISTAN",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 49
+  },
+  {
+    "iso_origin": "PAK",
+    "name_origin": "PAKISTAN",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "PAK",
+    "name_origin": "PAKISTAN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 17408
+  },
+  {
+    "iso_origin": "PAK",
+    "name_origin": "PAKISTAN",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 546
+  },
+  {
+    "iso_origin": "PAN",
+    "name_origin": "PANAMA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 889
+  },
+  {
+    "iso_origin": "PAN",
+    "name_origin": "PANAMA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 39
+  },
+  {
+    "iso_origin": "PER",
+    "name_origin": "PERU",
+    "iso_destination": "ARG",
+    "name_destination": "ARGENTINA",
+    "year": 2017,
+    "number": 8688
+  },
+  {
+    "iso_origin": "PER",
+    "name_origin": "PERU",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 10115
+  },
+  {
+    "iso_origin": "PER",
+    "name_origin": "PERU",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 910
+  },
+  {
+    "iso_origin": "PER",
+    "name_origin": "PERU",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 22433
+  },
+  {
+    "iso_origin": "PHL",
+    "name_origin": "PHILIPPINES",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 156
+  },
+  {
+    "iso_origin": "PHL",
+    "name_origin": "PHILIPPINES",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 467
+  },
+  {
+    "iso_origin": "PHL",
+    "name_origin": "PHILIPPINES",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 5152
+  },
+  {
+    "iso_origin": "PHL",
+    "name_origin": "PHILIPPINES",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 49147
+  },
+  {
+    "iso_origin": "PLW",
+    "name_origin": "PALAU",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 13
+  },
+  {
+    "iso_origin": "PNG",
+    "name_origin": "PAPUA NEW GUINEA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 18
+  },
+  {
+    "iso_origin": "POL",
+    "name_origin": "POLAND",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 27
+  },
+  {
+    "iso_origin": "POL",
+    "name_origin": "POLAND",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 41
+  },
+  {
+    "iso_origin": "POL",
+    "name_origin": "POLAND",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 4845
+  },
+  {
+    "iso_origin": "PRI",
+    "name_origin": "PUERTO RICO",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "PRK",
+    "name_origin": "KOREA DEMOCRATIC PEOPLES REPUBLIC OF",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 32
+  },
+  {
+    "iso_origin": "PRK",
+    "name_origin": "KOREA DEMOCRATIC PEOPLES REPUBLIC OF",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "PRT",
+    "name_origin": "PORTUGAL",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 92
+  },
+  {
+    "iso_origin": "PRT",
+    "name_origin": "PORTUGAL",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 939
+  },
+  {
+    "iso_origin": "PRT",
+    "name_origin": "PORTUGAL",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 288
+  },
+  {
+    "iso_origin": "PRY",
+    "name_origin": "PARAGUAY",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 391
+  },
+  {
+    "iso_origin": "PRY",
+    "name_origin": "PARAGUAY",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 16
+  },
+  {
+    "iso_origin": "PRY",
+    "name_origin": "PARAGUAY",
+    "iso_destination": "ARG",
+    "name_destination": "ARGENTINA",
+    "year": 2017,
+    "number": 30030
+  },
+  {
+    "iso_origin": "PRY",
+    "name_origin": "PARAGUAY",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 348
+  },
+  {
+    "iso_origin": "PSE",
+    "name_origin": "PALESTINIAN OCCUPIED TERRITORIES",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 8
+  },
+  {
+    "iso_origin": "PSE",
+    "name_origin": "PALESTINIAN OCCUPIED TERRITORIES",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 17
+  },
+  {
+    "iso_origin": "PYF",
+    "name_origin": "FRENCH POLYNESIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 20
+  },
+  {
+    "iso_origin": "QAT",
+    "name_origin": "QATAR",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 224
+  },
+  {
+    "iso_origin": "ROU",
+    "name_origin": "ROMANIA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 13
+  },
+  {
+    "iso_origin": "ROU",
+    "name_origin": "ROMANIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 2953
+  },
+  {
+    "iso_origin": "ROU",
+    "name_origin": "ROMANIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 22
+  },
+  {
+    "iso_origin": "RUS",
+    "name_origin": "RUSSIAN FEDERATION",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 8918
+  },
+  {
+    "iso_origin": "RUS",
+    "name_origin": "RUSSIAN FEDERATION",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 101
+  },
+  {
+    "iso_origin": "RUS",
+    "name_origin": "RUSSIAN FEDERATION",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 939
+  },
+  {
+    "iso_origin": "RUS",
+    "name_origin": "RUSSIAN FEDERATION",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 33
+  },
+  {
+    "iso_origin": "RWA",
+    "name_origin": "RWANDA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1394
+  },
+  {
+    "iso_origin": "SAU",
+    "name_origin": "SAUDI ARABIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 2135
+  },
+  {
+    "iso_origin": "SAU",
+    "name_origin": "SAUDI ARABIA",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 615
+  },
+  {
+    "iso_origin": "SCG",
+    "name_origin": "SERBIA AND MONTENEGRO",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 144
+  },
+  {
+    "iso_origin": "SDN",
+    "name_origin": "SUDAN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 3515
+  },
+  {
+    "iso_origin": "SEN",
+    "name_origin": "SENEGAL",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "SEN",
+    "name_origin": "SENEGAL",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1470
+  },
+  {
+    "iso_origin": "SGP",
+    "name_origin": "SINGAPORE",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 818
+  },
+  {
+    "iso_origin": "SGP",
+    "name_origin": "SINGAPORE",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "SGP",
+    "name_origin": "SINGAPORE",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 13
+  },
+  {
+    "iso_origin": "SGP",
+    "name_origin": "SINGAPORE",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 1472
+  },
+  {
+    "iso_origin": "SLE",
+    "name_origin": "SIERRA LEONE",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 2058
+  },
+  {
+    "iso_origin": "SLV",
+    "name_origin": "EL SALVADOR",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 334
+  },
+  {
+    "iso_origin": "SLV",
+    "name_origin": "EL SALVADOR",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 123
+  },
+  {
+    "iso_origin": "SLV",
+    "name_origin": "EL SALVADOR",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 25109
+  },
+  {
+    "iso_origin": "SLV",
+    "name_origin": "EL SALVADOR",
+    "iso_destination": "MEX",
+    "name_destination": "MEXICO",
+    "year": 2017,
+    "number": 2260
+  },
+  {
+    "iso_origin": "SRB",
+    "name_origin": "SERBIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 9
+  },
+  {
+    "iso_origin": "SRB",
+    "name_origin": "SERBIA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 4
+  },
+  {
+    "iso_origin": "SRB",
+    "name_origin": "SERBIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1410
+  },
+  {
+    "iso_origin": "SSD",
+    "name_origin": "SOUTH SUDAN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 160
+  },
+  {
+    "iso_origin": "STP",
+    "name_origin": "SAINT MAARTEN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 10
+  },
+  {
+    "iso_origin": "STP",
+    "name_origin": "SAINT MAARTEN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 35
+  },
+  {
+    "iso_origin": "SUR",
+    "name_origin": "SURINAME",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 136
+  },
+  {
+    "iso_origin": "SVK",
+    "name_origin": "SLOVAKIA (Slovak Republic)",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 6
+  },
+  {
+    "iso_origin": "SVK",
+    "name_origin": "SLOVAKIA (Slovak Republic)",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 3
+  },
+  {
+    "iso_origin": "SVK",
+    "name_origin": "SLOVAKIA (Slovak Republic)",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 388
+  },
+  {
+    "iso_origin": "SVN",
+    "name_origin": "SLOVENIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "SVN",
+    "name_origin": "SLOVENIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 108
+  },
+  {
+    "iso_origin": "SWE",
+    "name_origin": "SWEDEN",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 11
+  },
+  {
+    "iso_origin": "SWE",
+    "name_origin": "SWEDEN",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 12
+  },
+  {
+    "iso_origin": "SWE",
+    "name_origin": "SWEDEN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 950
+  },
+  {
+    "iso_origin": "SWZ",
+    "name_origin": "SWAZILAND",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 19
+  },
+  {
+    "iso_origin": "SYC",
+    "name_origin": "SEYCHELLES",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 10
+  },
+  {
+    "iso_origin": "SYR",
+    "name_origin": "SYRIAN ARAB REPUBLIC",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 26
+  },
+  {
+    "iso_origin": "SYR",
+    "name_origin": "SYRIAN ARAB REPUBLIC",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 5877
+  },
+  {
+    "iso_origin": "SYR",
+    "name_origin": "SYRIAN ARAB REPUBLIC",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 3
+  },
+  {
+    "iso_origin": "TCA",
+    "name_origin": "TURKS AND CAICOS ISLANDS",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 35
+  },
+  {
+    "iso_origin": "TCD",
+    "name_origin": "CHAD",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 205
+  },
+  {
+    "iso_origin": "TGO",
+    "name_origin": "TOGO",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "TGO",
+    "name_origin": "TOGO",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1572
+  },
+  {
+    "iso_origin": "THA",
+    "name_origin": "THAILAND",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 13
+  },
+  {
+    "iso_origin": "THA",
+    "name_origin": "THAILAND",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "THA",
+    "name_origin": "THAILAND",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 6311
+  },
+  {
+    "iso_origin": "THA",
+    "name_origin": "THAILAND",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 1117
+  },
+  {
+    "iso_origin": "TJK",
+    "name_origin": "TAJIKISTAN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 652
+  },
+  {
+    "iso_origin": "TKM",
+    "name_origin": "TURKMENISTAN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 251
+  },
+  {
+    "iso_origin": "TON",
+    "name_origin": "TONGA",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 763
+  },
+  {
+    "iso_origin": "TON",
+    "name_origin": "TONGA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 262
+  },
+  {
+    "iso_origin": "TON",
+    "name_origin": "TONGA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "TTO",
+    "name_origin": "TRINIDAD AND TOBAGO",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 3100
+  },
+  {
+    "iso_origin": "TTO",
+    "name_origin": "TRINIDAD AND TOBAGO",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 7
+  },
+  {
+    "iso_origin": "TTO",
+    "name_origin": "TRINIDAD AND TOBAGO",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 4
+  },
+  {
+    "iso_origin": "TUN",
+    "name_origin": "TUNISIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 535
+  },
+  {
+    "iso_origin": "TUN",
+    "name_origin": "TUNISIA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "TUN",
+    "name_origin": "TUNISIA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 10
+  },
+  {
+    "iso_origin": "TUR",
+    "name_origin": "TURKEY",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 4844
+  },
+  {
+    "iso_origin": "TUR",
+    "name_origin": "TURKEY",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 24
+  },
+  {
+    "iso_origin": "TUR",
+    "name_origin": "TURKEY",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 33
+  },
+  {
+    "iso_origin": "TWN",
+    "name_origin": "CHINA TAIPEI",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 30
+  },
+  {
+    "iso_origin": "TWN",
+    "name_origin": "CHINA TAIPEI",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 45
+  },
+  {
+    "iso_origin": "TWN",
+    "name_origin": "CHINA TAIPEI",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 866
+  },
+  {
+    "iso_origin": "TWN",
+    "name_origin": "CHINA TAIPEI",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 4858
+  },
+  {
+    "iso_origin": "TZA",
+    "name_origin": "TANZANIA UNITED REPUBLIC OF",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1415
+  },
+  {
+    "iso_origin": "UGA",
+    "name_origin": "UGANDA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 2
+  },
+  {
+    "iso_origin": "UGA",
+    "name_origin": "UGANDA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1898
+  },
+  {
+    "iso_origin": "UNS",
+    "name_origin": "NO IDENTIFICADO",
+    "iso_destination": "ARG",
+    "name_destination": "ARGENTINA",
+    "year": 2017,
+    "number": 2244
+  },
+  {
+    "iso_origin": "UNS",
+    "name_origin": "NO IDENTIFICADO",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 6940
+  },
+  {
+    "iso_origin": "UNS",
+    "name_origin": "NO IDENTIFICADO",
+    "iso_destination": "MEX",
+    "name_destination": "MEXICO",
+    "year": 2017,
+    "number": 5767
+  },
+  {
+    "iso_origin": "URY",
+    "name_origin": "URUGUAY",
+    "iso_destination": "ARG",
+    "name_destination": "ARGENTINA",
+    "year": 2017,
+    "number": 1408
+  },
+  {
+    "iso_origin": "URY",
+    "name_origin": "URUGUAY",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 209
+  },
+  {
+    "iso_origin": "URY",
+    "name_origin": "URUGUAY",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 1001
+  },
+  {
+    "iso_origin": "URY",
+    "name_origin": "URUGUAY",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 91
+  },
+  {
+    "iso_origin": "USA",
+    "name_origin": "UNITED STATES",
+    "iso_destination": "MEX",
+    "name_destination": "MEXICO",
+    "year": 2017,
+    "number": 5374
+  },
+  {
+    "iso_origin": "USA",
+    "name_origin": "UNITED STATES",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 409
+  },
+  {
+    "iso_origin": "USA",
+    "name_origin": "UNITED STATES",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 1387
+  },
+  {
+    "iso_origin": "USA",
+    "name_origin": "UNITED STATES",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 444
+  },
+  {
+    "iso_origin": "USA",
+    "name_origin": "UNITED STATES",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 4922
+  },
+  {
+    "iso_origin": "USA",
+    "name_origin": "UNITED STATES",
+    "iso_destination": "ARG",
+    "name_destination": "ARGENTINA",
+    "year": 2017,
+    "number": 462
+  },
+  {
+    "iso_origin": "UZB",
+    "name_origin": "UZBEKISTAN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 4095
+  },
+  {
+    "iso_origin": "VCT",
+    "name_origin": "SAINT VINCENT AND THE GRENADINES",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 361
+  },
+  {
+    "iso_origin": "VEN",
+    "name_origin": "VENEZUELA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 11873
+  },
+  {
+    "iso_origin": "VEN",
+    "name_origin": "VENEZUELA",
+    "iso_destination": "ARG",
+    "name_destination": "ARGENTINA",
+    "year": 2017,
+    "number": 4092
+  },
+  {
+    "iso_origin": "VEN",
+    "name_origin": "VENEZUELA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 11809
+  },
+  {
+    "iso_origin": "VEN",
+    "name_origin": "VENEZUELA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 6882
+  },
+  {
+    "iso_origin": "VEN",
+    "name_origin": "VENEZUELA",
+    "iso_destination": "MEX",
+    "name_destination": "MEXICO",
+    "year": 2017,
+    "number": 3383
+  },
+  {
+    "iso_origin": "VGB",
+    "name_origin": "VIRGIN ISLANDS (BRITISH)",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 25
+  },
+  {
+    "iso_origin": "VNM",
+    "name_origin": "VIET NAM",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 4
+  },
+  {
+    "iso_origin": "VNM",
+    "name_origin": "VIET NAM",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 38231
+  },
+  {
+    "iso_origin": "VNM",
+    "name_origin": "VIET NAM",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 14
+  },
+  {
+    "iso_origin": "VNM",
+    "name_origin": "VIET NAM",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 1122
+  },
+  {
+    "iso_origin": "WSM",
+    "name_origin": "SAMOA",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 2115
+  },
+  {
+    "iso_origin": "WSM",
+    "name_origin": "SAMOA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 194
+  },
+  {
+    "iso_origin": "WSM",
+    "name_origin": "SAMOA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "YEM",
+    "name_origin": "YEMEN",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 6029
+  },
+  {
+    "iso_origin": "YEM",
+    "name_origin": "YEMEN",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "ZAF",
+    "name_origin": "SOUTH AFRICA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 2912
+  },
+  {
+    "iso_origin": "ZAF",
+    "name_origin": "SOUTH AFRICA",
+    "iso_destination": "NZL",
+    "name_destination": "NEW ZEALAND",
+    "year": 2017,
+    "number": 5322
+  },
+  {
+    "iso_origin": "ZAF",
+    "name_origin": "SOUTH AFRICA",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 20
+  },
+  {
+    "iso_origin": "ZAF",
+    "name_origin": "SOUTH AFRICA",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 99
+  },
+  {
+    "iso_origin": "ZMB",
+    "name_origin": "ZAMBIA",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 537
+  },
+  {
+    "iso_origin": "ZWE",
+    "name_origin": "ZIMBABWE",
+    "iso_destination": "PAN",
+    "name_destination": "PANAMA",
+    "year": 2017,
+    "number": 9
+  },
+  {
+    "iso_origin": "ZWE",
+    "name_origin": "ZIMBABWE",
+    "iso_destination": "CHL",
+    "name_destination": "CHILE",
+    "year": 2017,
+    "number": 1
+  },
+  {
+    "iso_origin": "ZWE",
+    "name_origin": "ZIMBABWE",
+    "iso_destination": "USA",
+    "name_destination": "UNITED STATES",
+    "year": 2017,
+    "number": 810
+  }
+]
